@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    position: relative;
+    
+}
+
+.Post{
+    width: 600px;
+    height: 800px;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    margin-left: -300px;
+    
+}
+
+.postHead{
+    display: flex;
+}
+
+
+#htmlImage{
+    width: 30px;
+    height: 30px;
+    padding-left: 5px;
+    padding-right: 10px;
+    margin-top: 20px;
+}
+.textHead{
+    display: inline;
+}
+h1{
+    margin: 0px;
+    margin-top: 10px;
+    font-size: 25px;
+    
+
+}
+h2{
+    margin: 0px;
+    font-size: 20px;
+}
+#iconMenu{
+   
+    margin-left: 435px;
+    margin-top: 30px;
+      
+}
